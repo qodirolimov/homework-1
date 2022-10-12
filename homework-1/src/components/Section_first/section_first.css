@@ -1,0 +1,115 @@
+
+.section_first_title{
+   width: 167px;
+   position: relative;
+   left: 642px;
+   top: 98px;
+   font-family: 'Gentium Basic';
+   font-style: normal;
+   font-weight: 700;
+   font-size: 16px;
+   line-height: 150%;
+ color: #008F76;
+}
+
+.section_first_title_second{
+   width: 1137px;
+   height: 100px;
+   left: 152px;
+   top: 42px;
+   position: relative;
+   font-family: sans-serif;
+   font-style: normal;
+   font-weight: 500;
+   font-size: 50px;
+   line-height: 200%;
+   text-align: center;
+   color: #212121;
+}
+
+.section_first_button{
+   justify-content: center;
+   align-items: center;
+   padding: 10px 24px;
+   gap: 10px;
+   color: #FFFFFF;
+   position: relative;
+   width: 209px;
+   height: 52px;
+   left: 486px;
+   top: 45px;
+   background: #008F76;
+   box-shadow: 0px 100px 80px rgba(0, 0, 0, 0.03), 0px 12.5216px 10.0172px rgba(0, 0, 0, 0.015);
+   border-radius: 20px;
+}
+
+.section_first_button_second{
+   justify-content: center;
+align-items: center;
+padding: 10px 24px;
+gap: 10px;
+position: relative;
+width: 251px;
+height: 52px;
+left: 515px;
+top:49px;
+border-radius: 20px;
+filter: drop-shadow(0px 100px 80px rgba(0, 0, 0, 0.03)) drop-shadow(0px 12.5216px 10.0172px rgba(0, 0, 0, 0.015));
+}
+
+
+.section_first_image_first{
+    width: 100px;
+height: 138.33px;
+margin-left: 115px;
+margin-top: 71px;
+background: #FFFFFF;
+}
+
+.section_first_image_second{
+   width: 130px;
+height: 220px;
+left: -119px;
+top: 271px;
+position: relative;
+}
+
+.section_first_image_third{
+   width: 150px;
+   height: 200px;
+left: -42px;
+top: 121px;
+position: relative;
+}
+
+.section_first_image_fourth{
+   width: 270px;
+   height: 360px;
+  left: 64px;
+    top: 270px;
+position: relative;
+}
+
+.section_first_image_fifth{
+width: 130px;
+height: 200px;
+left: 126px;
+top:129px;
+position: relative;
+}
+
+.section_first_image_sixth{
+   width: 100px;
+   height: 128px;
+   left: 221px;
+   top:9px;
+   position: relative;
+}
+
+.section_first_image_seventh{
+   width: 130px;
+  height: 200px;
+ left: 111px;
+  top: 271px;
+ position: relative;
+}
